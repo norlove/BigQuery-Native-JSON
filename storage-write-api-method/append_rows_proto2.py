@@ -163,4 +163,4 @@ def append_rows_proto2(project_id: str, dataset_id: str, table_id: str):
     print(f"Writes to stream: '{write_stream.name}' have been committed.")
  
 if __name__ == '__main__':
-    append_rows_proto2('nickorlove-json-blog', 'json_streaming', 'events') #Change this to your specific BigQuery project, dataset, table details
+    append_rows_proto2('<supply_your_project_id_here>', 'json_streaming', 'events') #Change this to your specific BigQuery project, dataset, table details
