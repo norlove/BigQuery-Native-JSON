@@ -1,0 +1,16 @@
+// Copyright 2021 Google. This software is provided as-is, without warranty or representation for any use or purpose.
+// Your use of it is subject to your agreement with Google.
+ 
+syntax = "proto2";
+ 
+message SampleData {
+  optional string creationTime = 1;
+  optional string id = 2;
+  optional string name = 3;
+  optional string severity = 4;
+  optional string source = 5;
+  optional string destination = 6;
+  optional bool accessGranted = 7;
+  optional float latency = 8;
+  optional string labels = 9;
+}
