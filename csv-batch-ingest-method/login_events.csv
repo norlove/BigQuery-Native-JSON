@@ -1,0 +1,3 @@
+"2020-10-27 21:18:17 UTC","55Av4LMJzvLUvU","User Login","critical","Login Server","www.acmelogin.com","FALSE",0.96,"{""property"":""Authentication Failure"",""threatRating"":null}"
+"2020-10-27 21:18:47 UTC","55XJBvQyVSib9A","User Logout","info",null,"www.acmelogin.com","FALSE",0.13,"{""property"":""Authentication Success"",""threatRating"":0.1,""type"":""log out"",""array"":[6,13,""experimentalData1""]}"
+"2020-10-27 21:19:14 UTC","99NUmQcaraNSCy","User Login","warning",null,"www.acmelogin.com","FALSE",0.962373976368437,"{}"
