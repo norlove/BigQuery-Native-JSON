@@ -13,6 +13,7 @@
 # limitations under the License.
  
 # This code sample demonstrates using the low-level generated client for Python.
+# Make sure you provide your Project, Dataset, and Table details below in line 167.
  
 import datetime
 import decimal
