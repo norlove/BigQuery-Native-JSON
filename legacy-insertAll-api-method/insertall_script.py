@@ -10,7 +10,7 @@ with open('local_file.json', 'r') as json_file:
 
 #Stream the data into BigQuery
 project_id = '<supply_your_project_id_here>'
-table_id = 'json_streaming.events'
+table_id = 'json_example.streaming_events'
 
 client = bigquery.Client(project=project_id)
 table_obj = client.get_table(table_id)
