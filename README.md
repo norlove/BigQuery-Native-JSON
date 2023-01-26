@@ -1,7 +1,7 @@
 # BigQuery-Native-JSON
 This repo contains examples of how to stream JSON data natively into BigQuery using both the Storage Write API and legacy insertAll streaming API.
 
-The blog post which provides context into BigQuery Native JSON and streaming via these two methods can be found HERE [Will Add Link Once Published].
+The blog post which provides context into BigQuery Native JSON and streaming via these two methods can be found [HERE](https://cloud.google.com/blog/products/data-analytics/bigquery-now-natively-supports-semi-structured-data).
 
 **Ingesting via the BigQuery Storage Write API:**
     
